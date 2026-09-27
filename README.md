@@ -1,8 +1,8 @@
 # DynExpress v2.0
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/devlwte/dynexpress/main/assets/banner.png" alt="DynExpress Banner" width="100%" onerror="this.style.display='none'"/>
-</p>
+</p> -->
 
 <p align="center">
   <strong>Next-Generation Dynamic Multi-Server Express Runtime & Orchestrator for Node.js</strong>
